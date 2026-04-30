@@ -2,12 +2,12 @@
 > This is a template for course-level GenAI Policies.
 > Make sure to fill in the placeholders, and then alter, add, remove parts to make the policy fit your course.
 > 
-> This template is licensed under CC BY-SA 4.0. If you reuse or adapt it, please acknowledge the source.
+> This template is licensed under CC BY 4.0. If you reuse or adapt it, please acknowledge the source.
 > Suggested attribution:
 > 
 >> GenAI Policy Template, Franz Zieris, Blekinge Insitute of Technology, 2026.
 >> Available at: https://github.com/bth-dipt-teaching/genai-policy/blob/main/template.md
->> Licensed under CC BY-SA 4.0.
+>> Licensed under CC BY 4.0.
 >
 > Remove this callout block when you are done.
 
