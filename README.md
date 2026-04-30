@@ -6,7 +6,7 @@ Suggested attribution:
 
 > GenAI Policy Template, Franz Zieris, Blekinge Insitute of Technology, 2026.
 > Available at: https://github.com/bth-dipt-teaching/genai-policy/blob/main/template.md
-> Licensed under CC BY-SA 4.0.
+> Licensed under CC BY 4.0.
 
 ---
 
