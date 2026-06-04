@@ -1,8 +1,6 @@
 ---
-
-* Course Code: PA1489
-* Name: Basic Software Engineering
-
+Course Code: PA1489
+Name: Basic Software Engineering
 ---
 
 # GenAI Policy
