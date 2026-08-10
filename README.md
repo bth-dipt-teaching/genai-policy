@@ -1,7 +1,17 @@
 # GenAI Policies
 
+📑 [**Template for course-level GenAI policies**](./template.md)
 
-Collection of course policies for GenAI use at Blekinge Tekniska Högskola, Software Engineering Department:
+Suggested attribution:
+
+> GenAI Policy Template, Franz Zieris, Blekinge Insitute of Technology, 2026.
+> Available at: https://github.com/bth-dipt-teaching/genai-policy/blob/main/template.md
+> Licensed under CC BY 4.0.
+
+---
+
+Need some inspiration for your course?
+Here is a aollection of course policies for GenAI use at Blekinge Tekniska Högskola, Software Engineering Department:
 
 * [**PA1481**: Digital Ethics and Sustainable Development (VT2026)](./pa1481-vt2026-digital-ethics.md)
 * [**PA1489**: Basic Software Engineering (HT2026)](./2026-PA1489-GenAI-policy.md)
@@ -10,12 +20,6 @@ Collection of course policies for GenAI use at Blekinge Tekniska Högskola, Soft
 
 ---
 
-* [**Template for course-level GenAI policies**](./template.md)
+Want to more about the background?
 
-Suggested attribution:
-
-> GenAI Policy Template, Franz Zieris, Blekinge Insitute of Technology, 2026.
-> Available at: https://github.com/bth-dipt-teaching/genai-policy/blob/main/template.md
-> Licensed under CC BY 4.0.
-
-💁 Presentation on [Why and How to Write Course-Level GenAI Policies](./presentation/genai-policies-why-and-how.pdf)
+* 💁 Presentation on [Why and How to Write Course-Level GenAI Policies](./presentation/genai-policies-why-and-how.pdf)
