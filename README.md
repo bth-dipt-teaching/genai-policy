@@ -14,7 +14,9 @@ Suggested attribution:
 
 ---
 
-Collection of policies for GenAI use in higher education.
+Collection of course policies for GenAI use at Blekinge Tekniska Högskola, Software Engineering Department:
 
-* Blekinge Tekniska Högskola, Software Engineering Department: [Master Thesis Course (PA2534), VT2026](./pa2534-vt2026-msc-thesis.md)
-* Blekinge Tekniska Högskola, Software Engineering Department: [Digital Ethics and Sustainable Development (PA1481), VT2026](./pa1481-vt2026-digital-ethics.md)
+* [**PA1481**: Digital Ethics and Sustainable Development (VT2026)](./pa1481-vt2026-digital-ethics.md)
+* [**PA1489**: Basic Software Engineering (HT2026)](./2026-PA1489-GenAI-policy.md)
+* [**PA2534**: Master Thesis Course (VT2026)](./pa2534-vt2026-msc-thesis.md)
+* [**PA2577**: Applied Cloud Computing and Big Data (HT2026)](./2026-PA2577-GenAI-policy.md)
