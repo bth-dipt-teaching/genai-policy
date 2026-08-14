@@ -21,6 +21,7 @@ Here is a aollection of course policies for GenAI use at Blekinge Tekniska Högs
 
 ---
 
-Want to more about the background?
+You want more background information?
 
 * 💁 Presentation on [Why and How to Write Course-Level GenAI Policies](./presentation/genai-policies-why-and-how.pdf)
+* 📦 [Material Collection on AI Literacy/AI Competence in Education](./material/README.md)
