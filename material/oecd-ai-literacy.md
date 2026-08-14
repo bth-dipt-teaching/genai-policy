@@ -55,7 +55,7 @@ The framework formulates seven fundamental _Skills_:
 * **Communication**: Describe how AI works in a way that promotes transparency, avoids anthropomorphism and encourages responsible use.
 * **Self and Social Awareness**: Recognise how AI influences personal choices, relationships and communities and reflect on its broader societal and environmental impacts.
 
-Finally, the framework highlights six _Attitudes_ that may constitute the learner's mindset (to varying degrees in different situations):
+Finally, the framework highlights six _Attitudes_ that may constitute the learner's mindset. Some competences are best developed with a _Curious_ mindset, other might need a _Reflective_ one.
 
 * **Reflective**: _"question the assumptions and narratives surrounding AI ..._"
 * **Responsible**: _"think carefully about how they use AI and recognise that they are accountable for their choices ..._"
@@ -74,7 +74,11 @@ Finally, the framework highlights six _Attitudes_ that may constitute the learne
 6. Explain how AI could be used to amplify societal biases.
 7. Analyse how well the use of an AI system aligns with ethical principles and human values.
 
-Example for Competence 2:
+Example for Competence 2: _Describe how AI systems perform tasks using language that addresses and clarifies common misconceptions_
+
+* **Knowledge**: 1.3 _(GenAI produces advanced output, but lacks authentic human understanding and intent)_ and 1.4 (_Many types of AI, sometimes obvious in interaction, sometimes in the background)_
+* **Skills**: Communication _(describe how AI works, promoting transparency, avoiding anthropomorphism)_
+* **Attitude**: Reflective _(question AI narratives)_, Responsible _(think carefully about how they use AI)_
 
 | Basic | Intermediate | Advanced |
 |-------|--------------|----------|
