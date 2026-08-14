@@ -71,7 +71,9 @@ the sake of their own individual interests, as well as to address shared sustain
 
 ### Chapter 4: Specifications of AI competencies for students
 
-The framework details specific _competencies_ for each of the four elements at each of the three levels, along with multiple _curricular goals_ and _suggested pedagogical methods_.
+The framework formulates one specific _student competency_ for each of the four elements at each of the three levels, along with multiple _curricular goals_ and _suggested pedagogical methods_.
+
+This is a summary of the curricular goals:
 
 | **Element** | **1. Understand** | **2. Apply** | **3. Create** |
 |---------|---------------|----------|-----------|

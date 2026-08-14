@@ -99,3 +99,40 @@ For level 2 'Deepen':
 > 
 > 1. Demonstrate a deepened understanding of human accountability and human determination in the proper deployment and use of AI. This implies a critical mindset of AI’s capacity to facilitate human–AI decision loops, as well as of overhyped claims on the use of AI to substitute humans in making high-stakes decisions in education.
 > 2. Internalize essential ethical rules for the safe and responsible use of AI including respecting data privacy, intellectual property rights, as well as other legal provisions, and adopt this ethical perspective when assessing and using AI tools, data and AI-generated content in education.
+
+## Chapter 4: The AI CFT specifications
+
+The framework details specific _teacher competencies_ for each of the five aspects at each of the three levels, along with multiple _curricular goals_, CGs, (i.e., _"Teacher training or support programmes should ..."_), _learning objectives_, LOs, (i.e., _"Teachers can ..."_), and _contextual activities_ (i.e., for teachers to demonstrate attitudes and behaviors).
+
+This is a summary of the learning outcomes:
+
+| **Aspect** | **1. Acquire** | **2. Deepen** | **3. Create** |
+|---------|---------------|----------|-----------|
+| Human-centred mindset | 1. Reflect on benefits, limitations and risks of AI tools<br>2. Corporate decisions affect human rights, human agency, individual lives and societies<br>3. Role of humans in data collection and processing, design of algorithms and features, deployment and use of AI tools<br>4. Basic protection measures | ... | ... |
+| Ethics of AI | ... | ... | ... |
+| AI foundations and applications | ... | ... | ... |
+| AI pedagogy | ... | ... | ... |
+| AI for professional development | ... | ... | ... |
+
+## Chapter 5: Suggested implementation strategies
+
+### 5.2 Build enabling policies and conditions for the use of AI in education
+
+Policy function no. 1:
+
+> ... One of the primary functions of policies on AI in education is to help institutions to weigh the option of AI against other existing options and priorities, before promoting its use to teachers.
+
+> ... trade-offs between the forward-looking yet unproven value of AI for education, versus the urgent need to ensure/improve other conditions for learners, independent of technology. It is fair to argue that, despite media hype, AI is unlikely to solve any of the major problems confronting education systems around the world, such as inadequate school infrastructure or teacher shortages.
+
+> ... decisions must be informed by rigorous evidence-based research and multistakeholder dialogue. 
+
+> ... teachers should be able to choose to apply affordable AI tools or co-create relevant solutions only after determining that benefits clearly outweigh the risks.
+
+Policy function no. 2:
+
+> A second function of policies on AI in education is to support and motivate teachers to use AI in a responsible manner.
+> Strategies to motivate teachers could include such actions as: ... introducing measures to mitigate the negative impact of AI use on teachers’ workloads and well-being; providing well-funded relevant training on AI and school-based support programmes grounded in needs assessments; ...
+
+Policy function no. 3:
+
+> The third function of policy frameworks can be to support teachers to address the barrier of AI access and affordability.
