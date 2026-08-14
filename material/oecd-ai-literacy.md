@@ -38,26 +38,31 @@ Each competence is cross-referenced to some of the _Knowledge_ building blocks, 
 
 ## Chapter 4: The AILit Framework
 
-Starts with a neatly organized collection of 17 _Knowledge_ statements about **1. The Nature of AI** (e.g., _1.1 AI is not human_, or _1.5 AI requires significant resources_), **2. AI Reflects Human Choices and Perspectives** (e.g., _2.1 Building and maintaining AI systems relies on humans_ or _2.2 AI is trained on vast datasets ... includ[ing]copyright-protected materials, synthetic data, unverified information, as well as private and public data obtained in unethical or nonconsensual ways_), **3. AI’s Capabilities and Limitations**, and  **4. AI’s Role in Society**.
+Starts with a neatly organized collection of 17 _Knowledge_ statements about:
+
+1. **The Nature of AI** (e.g., _1.1 AI is not human_, or _1.5 AI requires significant resources_)
+2. **AI Reflects Human Choices and Perspectives** (e.g., _2.1 Building and maintaining AI systems relies on humans_ or _2.2 AI is trained on vast datasets ... includ[ing]copyright-protected materials, synthetic data, unverified information, as well as private and public data obtained in unethical or nonconsensual ways_)
+3. **AI’s Capabilities and Limitations**
+4. **AI’s Role in Society**
 
 The framework formulates seven fundamental _Skills_:
 
-* Critical Thinking: Evaluate AI use and AI-generated content for accuracy, fairness and bias to make informed and ethical decisions.
-* Collaboration: Guide interactions with AI by communicating clearly, providing feedback and navigating shared tasks.
-* Creativity: Use AI to build and reflect on original ideas or to explore new ones.
-* Problem Solving: Determine if, when and how to use AI for a task by assessing its capabilities, risks and ethical implications
-* Computational Thinking: Decompose problems and provide instructions in ways that allow AI systems to effectively contribute to solutions
-* Communication: Describe how AI works in a way that promotes transparency, avoids anthropomorphism and encourages responsible use.
-* Self and Social Awareness: Recognise how AI influences personal choices, relationships and communities and reflect on its broader societal and environmental impacts.
+* **Critical Thinking**: Evaluate AI use and AI-generated content for accuracy, fairness and bias to make informed and ethical decisions.
+* **Collaboration**: Guide interactions with AI by communicating clearly, providing feedback and navigating shared tasks.
+* **Creativity**: Use AI to build and reflect on original ideas or to explore new ones.
+* **Problem Solving**: Determine if, when and how to use AI for a task by assessing its capabilities, risks and ethical implications
+* **Computational Thinking**: Decompose problems and provide instructions in ways that allow AI systems to effectively contribute to solutions
+* **Communication**: Describe how AI works in a way that promotes transparency, avoids anthropomorphism and encourages responsible use.
+* **Self and Social Awareness**: Recognise how AI influences personal choices, relationships and communities and reflect on its broader societal and environmental impacts.
 
 Finally, the framework highlights six _Attitudes_ that may constitute the learner's mindset (to varying degrees in different situations):
 
-* Reflective: _"question the assumptions and narratives surrounding AI ..._"
-* Responsible: _"think carefully about how they use AI and recognise that they are accountable for their choices ..._"
-* Curious: _"eager to explore what AI can and cannot do today and how it might evolve in the future ..."_
-* Innovative: _"address real-world challenges and embrace new opportunities ..."_
-* Adaptable: _"perseverance and flexibility when working with AI ..."_
-* Empathetic: _"thoughtfully examine how AI impacts individuals, communities and the environment ..."_
+* **Reflective**: _"question the assumptions and narratives surrounding AI ..._"
+* **Responsible**: _"think carefully about how they use AI and recognise that they are accountable for their choices ..._"
+* **Curious**: _"eager to explore what AI can and cannot do today and how it might evolve in the future ..."_
+* **Innovative**: _"address real-world challenges and embrace new opportunities ..."_
+* **Adaptable**: _"perseverance and flexibility when working with AI ..."_
+* **Empathetic**: _"thoughtfully examine how AI impacts individuals, communities and the environment ..."_
 
 ### Domain: Engage with AI
 
