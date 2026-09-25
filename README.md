@@ -1,5 +1,7 @@
 # GenAI Policies
 
+This is a template for course-level GenAI policies in higher education. The approach is to walk through each course activity from a student perspective, tie it to the relevant learning outcomes (and later professional, where applicable), and derive concrete "Dos" and "Dont's" for AI use. The point of policies following this template is not to be enforceable by examiners, but to be actionable for students and the start of a conversation between students and teachers, not the end of it.
+
 📑 [**Template for course-level GenAI policies**](./template.md)
 
 Suggested attribution:
@@ -11,7 +13,7 @@ Suggested attribution:
 ---
 
 Need some inspiration for your course?
-Here is a collection of course policies for GenAI use at Blekinge Tekniska Högskola, Software Engineering Department:
+Here is a collection of course policies for GenAI use at the Blekinge Institute of Technology, Software Engineering Department:
 
 * [**PA1481**: Digital Ethics and Sustainable Development (VT2026)](./pa1481-vt2026-digital-ethics.md)
 * [**PA1483**: Software Architecture (HT2026)](./pa1483-ht2026-software-architecture.md) (earlier version: [HT2025](./pa1483-ht2025-software-architecture.md))
