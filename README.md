@@ -11,7 +11,7 @@ Suggested attribution:
 ---
 
 Need some inspiration for your course?
-Here is a aollection of course policies for GenAI use at Blekinge Tekniska Högskola, Software Engineering Department:
+Here is a collection of course policies for GenAI use at Blekinge Tekniska Högskola, Software Engineering Department:
 
 * [**PA1481**: Digital Ethics and Sustainable Development (VT2026)](./pa1481-vt2026-digital-ethics.md)
 * [**PA1483**: Software Architecture (HT2026)](./pa1483-ht2026-software-architecture.md) (earlier version: [HT2025](./pa1483-ht2025-software-architecture.md))
