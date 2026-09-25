@@ -1,6 +1,6 @@
 # GenAI Policies
 
-This is a template for course-level GenAI policies in higher education. The approach is to walk through each course activity from a student perspective, tie it to the relevant learning outcomes (and later professional, where applicable), and derive concrete "Dos" and "Dont's" for AI use. The point of policies following this template is not to be enforceable by examiners, but to be actionable for students and the start of a conversation between students and teachers, not the end of it.
+This is a template for course-level GenAI policies in higher education. The key idea is to walk through each course activity from a student perspective, tie it to the relevant learning outcomes (and later professional, where applicable), and derive concrete "Dos" and "Dont's" for AI use. The point of such policies is not to be _enforceable_ by examiners but to be _actionable_ for students. They should be the _start_ of a conversation between students and teachers, not the _end_.
 
 📑 [**Template for course-level GenAI policies**](./template.md)
 
