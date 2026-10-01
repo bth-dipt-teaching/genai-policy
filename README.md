@@ -12,13 +12,13 @@ They should be the _start_ of a conversation between students and teachers not t
 There are a number of alternatives that I considered for how to deal with students using GenAI in my courses:
 
 1. **Ignore AI**: Focussing on the learning outcomes should be enough, right? Could be, but relying on catching (and failing) phonies and frauds through oral follow-ups reduces _teaching_ to _gatekeeping the degree_, and I don't like that.
-2. **Ban AI**: A complete, unconditional ban of all AI use might have the opposite effect ("forbidden fruit") and is not enforceable anyway.
-3. **Allow AI**: Allowing all AI use by default is also naive as it effectively abandons our statutory mandate under the [Swedish Higher Education Act](https://www.uhr.se/en/start/laws-and-regulations/Laws-and-regulations/The-Swedish-Higher-Education-Act/#h-Section8)
-   to develop students' abilities to _"make independent and critical assessments"_ and _"solve problems autonomously"_.
-4. **Appeal to Ideals**: Allowing AI under the condition that _"must not replace human judgement"_ or _"affect academic integrity"_ sounds like it's hard to disagree with,
-   but it's utterly meaningless for _students_ who, by their nature of being students, have not internalized yet what either of those emean.
+2. **Ban AI**: A complete, unconditional ban of all AI use to deter students might have the _opposite_ effect ("forbidden fruit") and is not enforceable anyway.
+3. **Allow AI**: Allowing all AI use by default is also naïve, as it effectively abandons our statutory mandate under the [Swedish Higher Education Act](https://www.uhr.se/en/start/laws-and-regulations/Laws-and-regulations/The-Swedish-Higher-Education-Act/#h-Section8)
+   to develop our students' abilities to _"make independent and critical assessments"_ and _"solve problems autonomously"_.
+4. **Appeal to Ideals**: Allowing AI under the condition that it _"must not replace human judgement"_ or _"affect academic integrity"_ sounds like it's hard to disagree with,
+   but it's utterly meaningless for _students_ who, by their nature of being students, have not internalized yet what either of those concepts mean.
 5. **Adapt the Learning Outcomes**: Those should be regularly reassessed anyhow, but at least for my courses, I am content with most learning outcomes as they are. If anything, I would rather _add_ some pertaining to [AI Literacy](./material/).
-6. **Change the Modes of Assessments**: Yes, the moment when producing a convincing-looking written report no longer required deep thinking and became cheaper than properly reviewing it, that way of assessing students was outdated.
+6. **Change the Modes of Assessments**: Indeed, the moment when producing a convincing-looking written report no longer required deep thinking and became cheaper than properly reviewing it, that way of assessing students was outdated.
    But (a) for many learning outcomes, it was a questionable fit even before ChatGPT, and (b) "fixing" _assessments_ does not do any good for the 95% of the course that come before it: The _teaching_ and _learning_.
 
 **Consequence:**
