@@ -1,13 +1,27 @@
 # GenAI Policies
 
 This is a template for course-level GenAI policies in higher education.
-The key idea is to walk through each course activity from a student perspective, tie it to the relevant learning outcomes (and later professional, where applicable), and derive concrete "Dos" and "Dont's" for AI use.
+The key idea is to walk through each course activity from a student perspective, tie it to the relevant learning outcomes (and later professional work life, where applicable), and derive concrete "Dos" and "Dont's" for AI use.
 Such policies are not limited to assessments but cover all learning activities because their point is not to be _enforceable_ by examiners but to be _actionable_ for students.
-They should be the _start_ of a conversation between students and teachers, not the _end_.
+They should be the _start_ of a conversation between students and teachers not the _end_, and they should be refined with every course instance. 
 
 📑 [**Template for course-level GenAI policies**](./template.md)
 
-Suggested attribution:
+## Rationale
+
+There are a number of alternatives that I considered for how to deal with GenAI use in my courses:
+
+1. **Ignore AI**: Focussing on the learning outcomes should be enough, right? Could be, but relying on catching (and failing) phonies and frauds through, say, oral follow-ups reduces _teaching_ to _gatekeeping_, and I don't like that.
+2. **Ban AI**: A complete, unconditional ban of all AI use might have the opposite effect ("forbidden fruit") and is not enforceable anyway.
+3. **Allow AI**: Allowing all AI use by default is also naive as it effectively abandons our statutory mandate under the [Swedish Higher Education Act](https://www.uhr.se/en/start/laws-and-regulations/Laws-and-regulations/The-Swedish-Higher-Education-Act/#h-Section8)
+   to develop students' abilities to _"make independent and critical assessments"_ and _"solve problems autonomously"_.
+4. **Appeal to Ideals**: Allowing AI under the condition that _"must not replace human judgement"_ or _"affect academic integrity"_ sounds like it's hard to disagree with,
+   but it's utterly meaningless for _students_ who, by their nature of being students, have not internalized yet what either of those emean.
+
+**Consequence:**
+There can be university-wide high-level statements _for teachers_, but AI policies _for students_ must be _actionable_ and directly related to whatever activities they are expected to go through during the course -- assessed or otherwise.
+
+## Suggested attribution
 
 > GenAI Policy Template, Franz Zieris, Blekinge Insitute of Technology, 2026.
 > Available at: https://github.com/bth-dipt-teaching/genai-policy/blob/main/template.md
