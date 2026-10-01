@@ -11,7 +11,7 @@ They should be the _start_ of a conversation between students and teachers not t
 
 There are a number of alternatives that I considered for how to deal with students using GenAI in my courses:
 
-1. **Ignore AI**: Focussing on the learning outcomes should be enough, right? Could be, but relying on catching (and failing) phonies and frauds through, say, oral follow-ups reduces _teaching_ to _gatekeeping_, and I don't like that.
+1. **Ignore AI**: Focussing on the learning outcomes should be enough, right? Could be, but relying on catching (and failing) phonies and frauds through oral follow-ups reduces _teaching_ to _gatekeeping the degree_, and I don't like that.
 2. **Ban AI**: A complete, unconditional ban of all AI use might have the opposite effect ("forbidden fruit") and is not enforceable anyway.
 3. **Allow AI**: Allowing all AI use by default is also naive as it effectively abandons our statutory mandate under the [Swedish Higher Education Act](https://www.uhr.se/en/start/laws-and-regulations/Laws-and-regulations/The-Swedish-Higher-Education-Act/#h-Section8)
    to develop students' abilities to _"make independent and critical assessments"_ and _"solve problems autonomously"_.
