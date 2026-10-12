@@ -37,6 +37,7 @@ Here is a collection of course policies for GenAI use at the Blekinge Institute 
 
 * [**PA1481**: Digital Ethics and Sustainable Development (VT2026)](./pa1481-vt2026-digital-ethics.md)
 * [**PA1483**: Software Architecture (HT2026)](./pa1483-ht2026-software-architecture.md) (earlier version: [HT2025](./pa1483-ht2025-software-architecture.md))
+* [**PA1453**: Software Architectures and Quality (HT2026)](./pa1453-ht2026-software-architecture.md)
 * [**PA1489**: Basic Software Engineering (HT2026)](./2026-PA1489-GenAI-policy.md)
 * [**PA2534**: Master Thesis Course (VT2026)](./pa2534-vt2026-msc-thesis.md)
 * [**PA2577**: Applied Cloud Computing and Big Data (HT2026)](./2026-PA2577-GenAI-policy.md)
