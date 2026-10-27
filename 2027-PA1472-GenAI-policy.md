@@ -1,8 +1,6 @@
 ---
-
-* Course Code: PA1472
-* Name: Object Oriented Design
-
+Course Code: PA1472
+Name: Object Oriented Design
 ---
 
 # GenAI Policy
