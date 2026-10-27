@@ -1,8 +1,6 @@
 ---
-
-* Course Code: PA1482
-* Name: Applied Object Oriented Design
-
+Course Code: PA1482
+Name: Applied Object Oriented Design
 ---
 
 # GenAI Policy
