@@ -1,8 +1,6 @@
 ---
-
-* Course Code: PA1458
-* Name: Software Design
-
+Course Code: PA1458
+Name: Software Design
 ---
 
 # GenAI Policy
