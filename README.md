@@ -41,6 +41,9 @@ Here is a collection of course policies for GenAI use at the Blekinge Institute 
 * [**PA1489**: Basic Software Engineering (HT2026)](./2026-PA1489-GenAI-policy.md)
 * [**PA2534**: Master Thesis Course (VT2026)](./pa2534-vt2026-msc-thesis.md)
 * [**PA2577**: Applied Cloud Computing and Big Data (HT2026)](./2026-PA2577-GenAI-policy.md)
+* [**PA1458**: Software Design (VT2027)](./2027-PA1458-GenAI-policy.md)
+* [**PA1472**: Object Oriented Design (VT2027)](./2027-PA1472-GenAI-policy.md)
+* [**PA1482**: Applied Object Oriented Design (VT2027)](./2027-PA1482-GenAI-policy.md)
 
 ---
 
